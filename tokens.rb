@@ -1,12 +1,12 @@
-class Tokens
+# class Tokens
 
-  def initialize(color)
-    @color = color
-  end
+#   def initialize(color)
+#     @color = color
+#   end
 
-def color
-  return @color
-end
+# def color
+#   return @color
+# end
 
 
-end
+# end
